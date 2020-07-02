@@ -1,0 +1,9 @@
+{
+    "name": "netlify-demo",
+    "scripts": {
+        "build": "node build.js"
+    },
+    "dependencies": {
+        "netlify-plugin-dotenv": "^1.0.1"
+    }
+}

@@ -1,0 +1,3 @@
+[submodule "netlify-plugin-dotenv"]
+	path = netlify-plugin-dotenv
+	url = git@github.com:krotovic/netlify-plugin-dotenv
